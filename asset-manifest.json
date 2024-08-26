@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Legalpage/static/css/main.8b3f2e4a.css",
-    "main.js": "/Legalpage/static/js/main.9cf44e80.js",
+    "main.css": "/Legalpage/static/css/main.a5c550f3.css",
+    "main.js": "/Legalpage/static/js/main.0cc9b7c3.js",
     "static/js/143.345e79ee.chunk.js": "/Legalpage/static/js/143.345e79ee.chunk.js",
-    "static/js/555.42908563.chunk.js": "/Legalpage/static/js/555.42908563.chunk.js",
-    "static/js/818.c4e963a8.chunk.js": "/Legalpage/static/js/818.c4e963a8.chunk.js",
-    "static/js/615.8bc53afd.chunk.js": "/Legalpage/static/js/615.8bc53afd.chunk.js",
+    "static/js/555.2ff5a6ae.chunk.js": "/Legalpage/static/js/555.2ff5a6ae.chunk.js",
+    "static/js/818.6350be20.chunk.js": "/Legalpage/static/js/818.6350be20.chunk.js",
+    "static/js/615.a0bd9302.chunk.js": "/Legalpage/static/js/615.a0bd9302.chunk.js",
     "static/media/logo.png": "/Legalpage/static/media/logo.e5c7578a7eb722f3394d.png",
     "index.html": "/Legalpage/index.html",
-    "main.8b3f2e4a.css.map": "/Legalpage/static/css/main.8b3f2e4a.css.map",
-    "main.9cf44e80.js.map": "/Legalpage/static/js/main.9cf44e80.js.map",
+    "main.a5c550f3.css.map": "/Legalpage/static/css/main.a5c550f3.css.map",
+    "main.0cc9b7c3.js.map": "/Legalpage/static/js/main.0cc9b7c3.js.map",
     "143.345e79ee.chunk.js.map": "/Legalpage/static/js/143.345e79ee.chunk.js.map",
-    "555.42908563.chunk.js.map": "/Legalpage/static/js/555.42908563.chunk.js.map",
-    "818.c4e963a8.chunk.js.map": "/Legalpage/static/js/818.c4e963a8.chunk.js.map",
-    "615.8bc53afd.chunk.js.map": "/Legalpage/static/js/615.8bc53afd.chunk.js.map"
+    "555.2ff5a6ae.chunk.js.map": "/Legalpage/static/js/555.2ff5a6ae.chunk.js.map",
+    "818.6350be20.chunk.js.map": "/Legalpage/static/js/818.6350be20.chunk.js.map",
+    "615.a0bd9302.chunk.js.map": "/Legalpage/static/js/615.a0bd9302.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b3f2e4a.css",
-    "static/js/main.9cf44e80.js"
+    "static/css/main.a5c550f3.css",
+    "static/js/main.0cc9b7c3.js"
   ]
 }
