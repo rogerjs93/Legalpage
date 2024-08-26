@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Legalpage/static/css/main.993e8343.css",
-    "main.js": "/Legalpage/static/js/main.cdfa1622.js",
-    "static/js/588.1b3c152e.chunk.js": "/Legalpage/static/js/588.1b3c152e.chunk.js",
+    "main.css": "/Legalpage/static/css/main.8fcf876e.css",
+    "main.js": "/Legalpage/static/js/main.e77aa983.js",
+    "static/js/816.e6967db1.chunk.js": "/Legalpage/static/js/816.e6967db1.chunk.js",
     "static/js/555.2ff5a6ae.chunk.js": "/Legalpage/static/js/555.2ff5a6ae.chunk.js",
     "static/js/818.6350be20.chunk.js": "/Legalpage/static/js/818.6350be20.chunk.js",
     "static/js/615.ac6dee2e.chunk.js": "/Legalpage/static/js/615.ac6dee2e.chunk.js",
+    "static/media/video.webm": "/Legalpage/static/media/video.5ec73303e6c4a9ffb094.webm",
     "static/media/logo.png": "/Legalpage/static/media/logo.e5c7578a7eb722f3394d.png",
     "index.html": "/Legalpage/index.html",
-    "main.993e8343.css.map": "/Legalpage/static/css/main.993e8343.css.map",
-    "main.cdfa1622.js.map": "/Legalpage/static/js/main.cdfa1622.js.map",
-    "588.1b3c152e.chunk.js.map": "/Legalpage/static/js/588.1b3c152e.chunk.js.map",
+    "main.8fcf876e.css.map": "/Legalpage/static/css/main.8fcf876e.css.map",
+    "main.e77aa983.js.map": "/Legalpage/static/js/main.e77aa983.js.map",
+    "816.e6967db1.chunk.js.map": "/Legalpage/static/js/816.e6967db1.chunk.js.map",
     "555.2ff5a6ae.chunk.js.map": "/Legalpage/static/js/555.2ff5a6ae.chunk.js.map",
     "818.6350be20.chunk.js.map": "/Legalpage/static/js/818.6350be20.chunk.js.map",
     "615.ac6dee2e.chunk.js.map": "/Legalpage/static/js/615.ac6dee2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.993e8343.css",
-    "static/js/main.cdfa1622.js"
+    "static/css/main.8fcf876e.css",
+    "static/js/main.e77aa983.js"
   ]
 }
